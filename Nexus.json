@@ -1,0 +1,42 @@
+{
+    "manifest": {
+        "author": "DaBluLite#7409",
+        "name": "Nexus",
+        "version": "1.0.0"
+    },
+    "background": {},
+    "fonts": {},
+    "simple_colors": {
+        "statusbar": -15197924,
+        "input_background": -14671323,
+        "active_channel": 283765225
+    },
+    "colors": {
+        "chat_send_btn_bg_dark": -14671323,
+        "primary_dark_100": -14671323,
+        "design_dark_default_color_secondary": -14671323,
+        "background_material_dark": -14671323,
+        "primary_dark": -14671323,
+        "design_snackbar_background_color": -14671323,
+        "background_floating_material_dark": -14671323,
+        "cardview_dark_background": -14671323,
+        "mtrl_filled_background_color": -14671323,
+        "design_dark_default_color_on_background": -14671323,
+        "design_dark_default_color_primary_dark": -14671323,
+        "primary_dark_material_dark": -14671323,
+        "primary_dark_900": -14671323,
+        "primary_dark_600": -14671323,
+        "primary_dark_500": -14671323,
+        "primary_dark_400": -14671323,
+        "primary_dark_460": -14671323,
+        "primary_dark_430": -14671323,
+        "primary_dark_560": -14671323,
+        "primary_dark_530": -14671323,
+        "primary_dark_630": -15197924,
+        "primary_dark_700": -15197924
+    },
+    "drawable_tints": {
+        "abc_action_bar_item_background_material": -14671323
+    },
+    "raws": {}
+}
